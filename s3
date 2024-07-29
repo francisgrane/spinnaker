@@ -1,0 +1,14 @@
+persistentStorage:
+    persistentStoreType: s3
+    azs: {}
+    gcs:
+      rootFolder: front50
+      bucketLocation: ''
+    redis: {}
+    s3:
+      bucket: spin-ab648865-53de-4eda-a6f4-3fb4c8968be2
+      rootFolder: front50
+      region: us-west-2
+      pathStyleAccess: false
+      accessKeyId: AKIA3CLT1223455678
+      secretAccessKey: +Tu03wvmS123456789
