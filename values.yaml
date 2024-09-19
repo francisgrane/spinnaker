@@ -1,3 +1,5 @@
+# Note: If you want to install the spinnaker in kubernetes.....use this YAML file
+# No need to change any values ....best of luck. Thank you.
 global:
   redis:
     # Below is the password for redis connection to spinnaker
